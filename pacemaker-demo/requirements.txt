@@ -1,0 +1,11 @@
+# Pacemaker Blockchain Access Control Demo - Dependencies
+# Python 3.7+ recommended
+
+# Required for blockchain interaction
+web3>=6.0.0
+python-dotenv>=1.0.0
+
+# Optional: For enhanced terminal colors on Windows
+colorama>=0.4.6
+
+# Note: statistics module is part of Python standard library (3.4+)
